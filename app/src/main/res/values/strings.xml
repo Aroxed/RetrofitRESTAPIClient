@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit REST API Client</string>
+    <string name="image">Image</string>
+    <string name="title">title</string>
+</resources>
